@@ -1,6 +1,6 @@
 # Hack-Kit
 Automatically converts your firefox browser into a hacking tool by installing all the hacker plugins.
-Let the hacking beign ...
+Let the hacking beign ......
 
 Version: 0.1
 
